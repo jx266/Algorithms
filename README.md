@@ -42,6 +42,7 @@ All three methods have time complexity of O(n)
        }
 
 Preorder:
+
         // Function to pre-order traverse binary tree without recursion and without stack
         // Morris Traversal works only when we have write permission
         public void PreorderMorrisTraversal(TreeNode root) {
